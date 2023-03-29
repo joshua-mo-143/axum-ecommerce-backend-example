@@ -1,0 +1,5 @@
+services:
+  flyio_example:
+    image: flyio-to-shuttle
+    ports:
+      - "5140"
